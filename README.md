@@ -2,7 +2,8 @@
 
 <p align="center">
                                 <a href="https://uxd.fi" target="_blank" rel="noreferrer"><img src="https://github.com/as16x/2023-Midium-Risk-Findings-Sherlock/blob/main/Sherlock/UXD%20Protocol.jpg?raw=true" width="60" height="60" alt="Javascript" /></a></p>
-###
+                                
+### Socials
 --
 * [[H-01] PerpDespository#reblance and rebalanceLite can be called to drain funds from anyone who has approved PerpDepository - uxd.fi - 2023-Jan](https://github.com/sherlock-audit/2023-01-uxd-judging/issues/228)
 * [[H-02] Malicious user can use an excessively large _toAddress in OFTCore#sendFrom to break layerZero communication - uxd.fi - 2023-Jan](https://github.com/sherlock-audit/2023-01-uxd-judging/issues/270)
