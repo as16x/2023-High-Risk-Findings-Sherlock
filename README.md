@@ -1,4 +1,6 @@
-# 2023-High-Risk-Findings-Sherlock
+# 2023-High-Risk-Findings-Sherlock<br>
+<img src="https://github.com/as16x/2023-Midium-Risk-Findings-Sherlock/blob/main/Sherlock/UXD%20Protocol.jpg?raw=true" width="50" height="50"><br>
+--
 * [[H-01] PerpDespository#reblance and rebalanceLite can be called to drain funds from anyone who has approved PerpDepository - uxd.fi - 2023-Jan](https://github.com/sherlock-audit/2023-01-uxd-judging/issues/228)
 * [[H-02] Malicious user can use an excessively large _toAddress in OFTCore#sendFrom to break layerZero communication - uxd.fi - 2023-Jan](https://github.com/sherlock-audit/2023-01-uxd-judging/issues/270)
 * [[H-03] RageTrade senior vault USDC deposits are subject to utilization caps which can lock deposits for long periods of time leading to UXD instability - uxd.fi - 2023-Jan](https://github.com/sherlock-audit/2023-01-uxd-judging/issues/253)
