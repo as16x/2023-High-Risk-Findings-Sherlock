@@ -1,4 +1,4 @@
-# 2023-High-Risk-Findings-Sherlock<br>
+# 2023-High-Risk-Findings-Sherlock
 
 <p align="center"><a href="https://uxd.fi" target="_blank" rel="noreferrer"><img src="https://github.com/as16x/2023-Midium-Risk-Findings-Sherlock/blob/main/Sherlock/UXD%20Protocol.jpg?raw=true" width="60" height="60" alt="Javascript" /></a></p>
 ###
