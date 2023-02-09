@@ -8,3 +8,5 @@
 * [[H-05] USDC deposited to PerpDepository.sol are irretrievable and effectively causes UDX to become undercollateralized - uxd.fi - 2023-Jan](https://github.com/sherlock-audit/2023-01-uxd-judging/issues/250)
 * [[H-06] PerpDepository#getPositionValue uses incorrect value for TWAP interval allowing more than intended funds to be extracted - uxd.fi - 2023-Jan](https://github.com/sherlock-audit/2023-01-uxd-judging/issues/249)
 * [[H-07] User specified slippage allows frontrunning - uxd.fi - 2023-Jan](https://github.com/sherlock-audit/2023-01-uxd-judging/issues/192)
+<p align="center">
+                                <a href="https://uxd.fi" target="_blank" rel="noreferrer"><img src="https://github.com/as16x/2023-Midium-Risk-Findings-Sherlock/blob/main/Sherlock/UXD%20Protocol.jpg?raw=true" width="50" height="50" alt="Javascript" /></a></p>
