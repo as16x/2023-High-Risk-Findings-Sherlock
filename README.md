@@ -4,6 +4,12 @@
                                 
 ---
 * [[H-01] Use safeTransfer/safeTransferFrom consistently instead of transfer/transferFrom - Cooler loans - 2023-Feb](https://github.com/sherlock-audit/2023-01-cooler-judging/issues/335)
+*
+<p align="center">
+                                <a href="https://ag0.gitbook.io/cooler-loans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/as16x/2023-Midium-Risk-Findings-Sherlock/main/Sherlock/01UO5m5.jpeg?raw=true" width="60" height="60" alt="Javascript" /></a></p>    
+                                
+---
+* [[H-01] Use safeTransfer/safeTransferFrom consistently instead of transfer/transferFrom - Cooler loans - 2023-Feb](https://github.com/sherlock-audit/2023-01-cooler-judging/issues/335)
 * [[H-02] Loans can be rolled an unlimited number of times - Cooler loans - 2023-Feb](https://github.com/sherlock-audit/2023-01-cooler-judging/issues/215)
 * [[H-03] Fully repaying a loan will result in debt payment being lost - Cooler loans - 2023-Feb](https://github.com/sherlock-audit/2023-01-cooler-judging/issues/33)
 * [[H-04] Lender force Loan become default - Cooler loans - 2023-Feb](https://github.com/sherlock-audit/2023-01-cooler-judging/issues/23)
