@@ -8,6 +8,12 @@
 * [[H-03] CryptoPunks NFTs may be stolen via deposit frontrunning - ajna.finance - 2023-Feb](https://github.com/sherlock-audit/2023-01-ajna-judging/issues/140)
 * [[H-04] scaledQuoteTokenAmount isn't updated to be collateral sell value in the quote token constraint case of _calculateTakeFlowsAndBondChange - ajna.finance - 2023-Feb](https://github.com/sherlock-audit/2023-01-ajna-judging/issues/139) 
 * [[H-05] removeCollateral miss bankrupcy logic and can make future LPs sharing losses with the current ones - ajna.finance - 2023-Feb](https://github.com/sherlock-audit/2023-01-ajna-judging/issues/133)
+* [[H-06] Executing funded standard proposals can be prevented by a proposal slate with duplicate proposals - ajna.finance - 2023-Feb](https://github.com/sherlock-audit/2023-01-ajna-judging/issues/119)
+* [[H-07] ERC721Pool's mergeOrRemoveCollateral allows to remove collateral while auction is clearable - ajna.finance - 2023-Feb](https://github.com/sherlock-audit/2023-01-ajna-judging/issues/105)
+* [[H-08] Remaining collateral used by ERC721Pool is missed in Auctions take and bucketTake return structures - ajna.finance - 2023-Feb](https://github.com/sherlock-audit/2023-01-ajna-judging/issues/103)
+* [[H-09] ´moveQuoteToken()´ can cause bucket to go bankrupt but it is not reflected in the accounting - ajna.finance - 2023-Feb](https://github.com/sherlock-audit/2023-01-ajna-judging/issues/83)
+* [[H-10] ERC721Pool's take will proceed with truncated collateral amount and full debt when borrower's collateral is fractional - ajna.finance - 2023-Feb](https://github.com/sherlock-audit/2023-01-ajna-judging/issues/68)
+* [[H-11] The deposit / withdraw / trade transaction lack of expiration timestamp check and slippage control - ajna.finance - 2023-Feb](https://github.com/sherlock-audit/2023-01-ajna-judging/issues/39)
 <p align="center">
                                 <a href="https://ag0.gitbook.io/cooler-loans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/as16x/2023-Midium-Risk-Findings-Sherlock/main/Sherlock/01UO5m5.jpeg?raw=true" width="60" height="60" alt="Javascript" /></a></p>    
                                 
