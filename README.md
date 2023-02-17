@@ -20,4 +20,9 @@
 * [[H-05] USDC deposited to PerpDepository.sol are irretrievable and effectively causes UDX to become undercollateralized - uxd.fi - 2023-Jan](https://github.com/sherlock-audit/2023-01-uxd-judging/issues/250)
 * [[H-06] PerpDepository#getPositionValue uses incorrect value for TWAP interval allowing more than intended funds to be extracted - uxd.fi - 2023-Jan](https://github.com/sherlock-audit/2023-01-uxd-judging/issues/249)
 * [[H-07] User specified slippage allows frontrunning - uxd.fi - 2023-Jan](https://github.com/sherlock-audit/2023-01-uxd-judging/issues/192)
-
+---
+<p align="center">
+                                <a href="https://illuminate-app.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/as16x/2023-Midium-Risk-Findings-Sherlock/main/Sherlock/Illuminate.png" width="60" height="60" alt="Javascript" /></a></p>    
+                                
+* [[H-01] Illuminate's PT doesn't respect users' slippage specifications for underlyings - illuminate-app - 2023-Jan](https://github.com/sherlock-audit/2023-01-illuminate-judging/issues/16)
+* [[H-02] The Notional version of ´lend()´ can be used to lock iPTs - illuminate-app - 2023-Jan](https://github.com/sherlock-audit/2023-01-illuminate-judging/issues/15)
